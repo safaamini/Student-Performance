@@ -1,4 +1,4 @@
-Prédiction de la réussite scolaire avec Machine Learning (Logistic Regression, Random Forest)
+## Prédiction de la réussite scolaire avec Machine Learning (Logistic Regression, Random Forest)
 
 📌 Objectif
 Prédire si un étudiant réussira ou échouera en fonction de ses notes et de ses caractéristiques personnelles.  
